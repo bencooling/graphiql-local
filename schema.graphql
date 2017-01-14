@@ -1,0 +1,8 @@
+type Query {
+  # # hello
+  # request for hello resource
+  hello: String,
+  # # bye
+  # request for bye resource
+  bye: String
+}
